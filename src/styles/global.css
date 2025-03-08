@@ -82,3 +82,16 @@ h1 {
         display: none;
     }
 }
+
+html.dark {
+    background-color: #282463;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
+.dark .skill{
+    color: #eda3e6;
+}
